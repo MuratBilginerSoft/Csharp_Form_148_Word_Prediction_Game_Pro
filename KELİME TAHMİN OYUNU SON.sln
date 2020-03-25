@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KELİME TAHMİN OYUNU SON", "KELİME TAHMİN OYUNU SON\KELİME TAHMİN OYUNU SON.csproj", "{E4694423-92FE-475B-9748-C5505C3A4224}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KELİME TAHMİN OYUNU V4.0", "KELİME TAHMİN OYUNU V4.0\KELİME TAHMİN OYUNU V4.0.vdproj", "{34847CBB-51CA-40F8-A100-D7CEA25C2B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4694423-92FE-475B-9748-C5505C3A4224}.Debug|x86.ActiveCfg = Debug|x86
+		{E4694423-92FE-475B-9748-C5505C3A4224}.Debug|x86.Build.0 = Debug|x86
+		{E4694423-92FE-475B-9748-C5505C3A4224}.Release|x86.ActiveCfg = Release|x86
+		{E4694423-92FE-475B-9748-C5505C3A4224}.Release|x86.Build.0 = Release|x86
+		{34847CBB-51CA-40F8-A100-D7CEA25C2B8D}.Debug|x86.ActiveCfg = Debug
+		{34847CBB-51CA-40F8-A100-D7CEA25C2B8D}.Debug|x86.Build.0 = Debug
+		{34847CBB-51CA-40F8-A100-D7CEA25C2B8D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
